@@ -1,0 +1,19 @@
+**/Custom*/**
+**/[Cc]ache/**
+UserData/**/Replays
+DLC
+Playlists
+Logs
+IPA/Backups
+
+# Naluluna
+NalulunaAvatars/**
+
+# If you make any backups
+*.bak
+
+# BSLegacyLauncher / DepotDownloder
+.DepotDownloader
+
+# Plugins from previous versions
+Old*Plugins/**
